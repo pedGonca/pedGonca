@@ -1,8 +1,8 @@
 ### Olá. Me chamo Pedro Pavan e esse é meu perfil do GitHub ✌
 
-- 🔭 Hoje trabalho como analista de BI na Madeira Madeira
-- 🌱 Estudando Estatística na UFPR
-- ⚡ Amante do basquete
+- 🔭 Hoje trabalho como analista de Dados na Madeira Madeira.
+- 🌱 Estudando Estatística na UFPR.
+- ⚡ Apaixonado por dados.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
