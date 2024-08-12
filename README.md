@@ -1,6 +1,6 @@
 ### Olá. Me chamo Pedro Pavan e esse é meu perfil do GitHub ✌
 
-- 🔭 Hoje trabalho como analista de Dados na Madeira Madeira.
+- 🔭 Hoje trabalho como analista de Dados na Junto Seguros.
 - 🌱 Formado em Estatística pela UFPR.
 - ⚡ Apaixonado por dados.
 
